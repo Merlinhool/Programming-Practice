@@ -1,5 +1,5 @@
 # Programming-Practice
 
-My solutions for some boring problems. > <
+My solutions to some boring problems. > <
 
 OJ: LeetCode, Hackerrank
